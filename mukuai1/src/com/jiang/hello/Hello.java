@@ -5,5 +5,6 @@ public class Hello {
         System.out.println("hello world");
         System.out.println("second --------");
         System.out.println("third --------");
+        sout("在 pycharm上面修改 返回");
     }
 }
